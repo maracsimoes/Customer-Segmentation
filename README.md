@@ -28,8 +28,6 @@ The dataset contains aggregated customer-level data over a three-month period, i
 - Cuisine-specific spending
 - Order distribution by day of the week and hour
 
-The raw data file is available at [`DM2425_ABCDEats_DATASET.csv`](./DM2425_ABCDEats_DATASET.csv).
-
 ---
 
 ## Project Structure
